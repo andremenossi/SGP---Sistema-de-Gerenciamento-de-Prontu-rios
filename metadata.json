@@ -1,0 +1,5 @@
+{
+  "name": "SGP - Sistema de Gerenciamento de Prontuários",
+  "description": "Sistema hospitalar para controle de movimentação de prontuários, agendas e localização de arquivos.",
+  "requestFramePermissions": []
+}
